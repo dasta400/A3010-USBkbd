@@ -1,5 +1,7 @@
 **Teensy++ 2.0 based keyboard controller for Acorn Archimedes A3010 keyboard to USB.**
 
+![A3010 keyboard to USB](https://github.com/dasta400/A3010-USBkbd/blob/master/A3010kbd2USB.jpg "A3010 keyboard to USB")
+
 The Teensy board is connected to an Acorn Archimedes A3010 membrane switch matrix and acts as microcontroller and USB HID, thus allowing the connections of this keyboard to any computer through USB.
 
 ## The Acorn Archimedes A3010
